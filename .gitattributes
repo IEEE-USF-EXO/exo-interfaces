@@ -1,0 +1,9 @@
+* text=auto
+
+# Interface definitions and CAN databases must stay LF
+*.md text eol=lf
+*.dbc text eol=lf
+
+# Diagrams and reference documents
+*.png binary
+*.pdf binary
