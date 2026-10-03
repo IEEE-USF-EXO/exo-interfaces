@@ -1,10 +1,12 @@
-# Replace placeholders with GitHub usernames before first push.
-* @buttonoperator @gustavriguez
-/I-01_* @layanbargouthi @luislopezrondon @OscarC727
-/I-02_* @luislopezrondon @OscarC727
-/I-03_* @OscarC727 @kietphantuantran
-/I-04_* @luislopezrondon @OscarC727
-/I-05_* @layanbargouthi @luislopezrondon
-/I-06_* @layanbargouthi @OscarC727 @luislopezrondon
-/I-07_* @layanbargouthi @kietphantuantran
-/can/ @luislopezrondon @OscarC727
+# CODEOWNERS. Org teams, not individual accounts.
+# Org convention Section 4: * is the project leads team.
+# Per-interface ownership below preserves the previous individual mapping, by team.
+* @IEEE-USF-EXO/exo-leads
+/I-01_* @IEEE-USF-EXO/exo-mechanical @IEEE-USF-EXO/exo-electrical @IEEE-USF-EXO/exo-controls
+/I-02_* @IEEE-USF-EXO/exo-electrical @IEEE-USF-EXO/exo-controls
+/I-03_* @IEEE-USF-EXO/exo-controls
+/I-04_* @IEEE-USF-EXO/exo-electrical @IEEE-USF-EXO/exo-controls
+/I-05_* @IEEE-USF-EXO/exo-mechanical @IEEE-USF-EXO/exo-electrical
+/I-06_* @IEEE-USF-EXO/exo-mechanical @IEEE-USF-EXO/exo-controls @IEEE-USF-EXO/exo-electrical
+/I-07_* @IEEE-USF-EXO/exo-mechanical @IEEE-USF-EXO/exo-controls
+/can/ @IEEE-USF-EXO/exo-electrical @IEEE-USF-EXO/exo-controls
