@@ -5,11 +5,11 @@
 | Between | Electrical, Controls |
 | Owner | Assign at kickoff |
 | Status | Draft |
-| Freezes at | PDR Oct 29 |
-| Related packages | ELEC-005 |
+| Planned freeze (target) | PDR Oct 29 |
+| Related packages | ELEC-005, ELEC-009 |
 
 ## Scope
-Topology, termination, bitrate, left/right motor IDs.
+Topology, termination, bitrate, left/right motor IDs. Input to the interface list in ELEC-009.
 
 ## Definition
 <!-- Values, units, tolerances, pin assignments, message formats. Every value states its source. -->

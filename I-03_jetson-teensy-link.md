@@ -5,11 +5,11 @@
 | Between | Controls (Oscar, Tom) |
 | Owner | Assign at kickoff |
 | Status | Draft |
-| Freezes at | PDR Oct 29 |
-| Related packages | CTRL-002 |
+| Planned freeze (target) | PDR Oct 29 |
+| Related packages | CTRL-002, ELEC-009 |
 
 ## Scope
-Messages, rates, parameter update windows.
+Messages, rates, parameter update windows. Input to the interface list in ELEC-009.
 
 ## Definition
 <!-- Values, units, tolerances, pin assignments, message formats. Every value states its source. -->
